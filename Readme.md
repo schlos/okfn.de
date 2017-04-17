@@ -1,9 +1,9 @@
-# Website for the Open Knowledge Foundation Germany
+# Website
 
-Repository of [okfn.de](https://okfn.de) – pull requests are welcome.
+[![Build Status](https://travis-ci.org/schlos/okfnde.svg?branch=master)](https://travis-ci.org/schlos/okfnde)
 
 ---
 
-This site is generously supported by BrowserStack, [www.browserstack.com](https://www.browserstack.com) for cross-browser compatibility.
+Based on okfn.de
 
 Build with [Jekyll](https://jekyllrb.com/) and Data Love.
