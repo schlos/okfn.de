@@ -17,8 +17,6 @@ exclude:
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
-  - octopress-autoprefixer
-  - jekyll-paginate
 defaults:
   - scope:
       path: ""
