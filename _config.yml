@@ -1,7 +1,7 @@
 markdown: kramdown
 highlighter: pygments
-fullurl: 'https://okfn.de'
-url: 'https://okfn.de'
+fullurl: 'http://schlos.github.io/okfnde'
+url: 'http://schlos.github.io/okfnde'
 staticurl: /static/
 exclude:
   - "CNAME"
